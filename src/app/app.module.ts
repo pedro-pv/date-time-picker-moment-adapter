@@ -10,7 +10,7 @@ import {
     OwlNativeDateTimeModule,
     OWL_DATE_TIME_FORMATS,
     OWL_DATE_TIME_LOCALE
-} from '@danielmoncada/angular-datetime-picker';
+} from '@danielmoncada/angular-datetime-picker/dist/picker';
 
 import { AppComponent } from './app.component';
 import { OwlMomentDateTimeModule } from '../../projects/picker/src/public_api';
