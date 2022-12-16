@@ -1,0 +1,57 @@
+{
+  "name": "@danielmoncada/angular-datetime-picker-moment-adapter",
+  "version": "2.2.0",
+  "description": "Angular Date Time Picker (MomentJs Adpater)",
+  "keywords": [
+    "Angular",
+    "datepicker",
+    "date picker",
+    "timepicker",
+    "time picker",
+    "datetime picker",
+    "date time picker",
+    "material",
+    "ngx",
+    "moment",
+    "momentjs"
+  ],
+  "author": "Maintained and updated by Daniel Moncada, original implementatiom by Daniel Pan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielmoncada/date-time-picker-moment-adapter.git"
+  },
+  "homepage": "https://github.com/danielmoncada/date-time-picker-moment-adapter",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "@angular/common": ">= 8.0.0",
+    "@angular/core": ">= 8.0.0",
+    "@angular/cdk": ">= 8.0.0",
+    "moment": "^2.29.1"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "module": "fesm2015/danielmoncada-angular-datetime-picker-moment-adapter.mjs",
+  "es2020": "fesm2020/danielmoncada-angular-datetime-picker-moment-adapter.mjs",
+  "esm2020": "esm2020/danielmoncada-angular-datetime-picker-moment-adapter.mjs",
+  "fesm2020": "fesm2020/danielmoncada-angular-datetime-picker-moment-adapter.mjs",
+  "fesm2015": "fesm2015/danielmoncada-angular-datetime-picker-moment-adapter.mjs",
+  "typings": "danielmoncada-angular-datetime-picker-moment-adapter.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./danielmoncada-angular-datetime-picker-moment-adapter.d.ts",
+      "esm2020": "./esm2020/danielmoncada-angular-datetime-picker-moment-adapter.mjs",
+      "es2020": "./fesm2020/danielmoncada-angular-datetime-picker-moment-adapter.mjs",
+      "es2015": "./fesm2015/danielmoncada-angular-datetime-picker-moment-adapter.mjs",
+      "node": "./fesm2015/danielmoncada-angular-datetime-picker-moment-adapter.mjs",
+      "default": "./fesm2020/danielmoncada-angular-datetime-picker-moment-adapter.mjs"
+    }
+  },
+  "sideEffects": false
+}
