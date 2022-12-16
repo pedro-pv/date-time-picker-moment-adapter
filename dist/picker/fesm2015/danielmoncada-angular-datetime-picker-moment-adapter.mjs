@@ -1,7 +1,7 @@
 import * as i0 from '@angular/core';
 import { InjectionToken, Injectable, Optional, Inject, NgModule } from '@angular/core';
 import * as _moment from 'moment';
-import { DateTimeAdapter, OWL_DATE_TIME_LOCALE, OWL_DATE_TIME_FORMATS } from '@danielmoncada/angular-datetime-picker/dist/picker';
+import { DateTimeAdapter, OWL_DATE_TIME_LOCALE, OWL_DATE_TIME_FORMATS } from 'ng-pick-datetime/dist/picker';
 
 /**
  * moment-date-time-adapter.class

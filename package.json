@@ -57,7 +57,7 @@
     "@angular/cli": "^13.2.2",
     "@angular/compiler-cli": "^13.2.2",
     "@angular/language-service": "^13.2.2",
-    "@danielmoncada/angular-datetime-picker": "https://github.com/pedro-pv/date-time-picker.git",
+    "ng-pick-datetime": "github:pedro-pv/date-time-picker",
     "@types/jasmine": "^3.10.0",
     "@types/jasminewd2": "^2.0.10",
     "@types/moment-timezone": "^0.5.30",

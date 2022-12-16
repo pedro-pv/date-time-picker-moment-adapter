@@ -35,6 +35,6 @@
     "tslib": "^2.0.0"
   },
   "devDependencies": {
-    "@danielmoncada/angular-datetime-picker": "^14.1.0"
+    "ng-pick-datetime": "github:pedro-pv/date-time-picker"
   }
 }

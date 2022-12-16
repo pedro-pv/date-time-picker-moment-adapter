@@ -3,7 +3,7 @@
  */
 import { InjectionToken } from '@angular/core';
 import { Moment } from 'moment';
-import { DateTimeAdapter } from '@danielmoncada/angular-datetime-picker/dist/picker';
+import { DateTimeAdapter } from 'ng-pick-datetime/dist/picker';
 import * as i0 from "@angular/core";
 /** Configurable options for {@see MomentDateAdapter}. */
 export interface OwlMomentDateTimeAdapterOptions {
