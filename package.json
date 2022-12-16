@@ -80,6 +80,7 @@
   "peerDependencies": {
     "@angular/cdk": "^13.1.1",
     "@angular/common": "^13.1.2",
-    "@angular/core": "^13.1.2"
+    "@angular/core": "^13.1.2",
+    "ng-pick-datetime": "github:pedro-pv/date-time-picker"
   }
 }

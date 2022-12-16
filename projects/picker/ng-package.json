@@ -3,5 +3,8 @@
   "dest": "../../dist/picker",
   "lib": {
     "entryFile": "src/public_api.ts"
-  }
+  },
+  "allowedNonPeerDependencies": [
+    "ng-pick-datetime"
+  ]
 }

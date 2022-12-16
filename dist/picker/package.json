@@ -29,10 +29,12 @@
     "@angular/common": ">= 8.0.0",
     "@angular/core": ">= 8.0.0",
     "@angular/cdk": ">= 8.0.0",
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "ng-pick-datetime": "github:pedro-pv/date-time-picker"
   },
   "dependencies": {
-    "tslib": "^2.0.0"
+    "tslib": "^2.0.0",
+    "ng-pick-datetime": "github:pedro-pv/date-time-picker"
   },
   "module": "fesm2015/danielmoncada-angular-datetime-picker-moment-adapter.mjs",
   "es2020": "fesm2020/danielmoncada-angular-datetime-picker-moment-adapter.mjs",
